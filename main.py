@@ -1,6 +1,9 @@
+# Simple Translator App using TextBlob and GoogleTrans
+# Sujan Koirala, Institute of Engineering, Pulchowk
+
+
 from tkinter import *
 from tkinter import ttk
-from tkinter import messagebox
 from textblob import TextBlob
 import googletrans
 
